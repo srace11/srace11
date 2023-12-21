@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srace11
-- 👀 I’m interested in learning more about how to become a data scientist
-- 🌱 I’m currently learning unsupervised machine learning models
-- 💞️ I’m looking to collaborate on any competitions or projects that are good for beginners or intermediate programmers
-- 📫 How to reach me: message my LinkedIn!
+Hi, I'm Shane
+
+I am a senior at Cornell University majoring in Operations Research Engineering with a minor in business. 
+I hope to build a career in the field of data science and machine learning and gain more knowledge as I go. 
+I will be pursuing a Master's in Data Science at the University of Kentucky next year to deepen my understanding of AI. 
 
 <!---
 srace11/srace11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
