@@ -1,7 +1,7 @@
 Hi, I'm Shane
 
 I am a senior at Cornell University majoring in Operations Research Engineering with a minor in business. 
-I hope to build a career in the field of data science and machine learning and gain more knowledge as I go. 
+I hope to build a career in the field of data science and machine learning. 
 I will be pursuing a Master's in Data Science at the University of Kentucky next year to deepen my understanding of AI. 
 
 <!---
