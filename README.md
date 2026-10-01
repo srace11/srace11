@@ -1,4 +1,4 @@
-## Hi, I'm Shane 👋
+## Hi, I'm Shane 
 
 I'm a developer and data scientist. I build small, focused apps and tools that are focused around my hobbies and sports. I like running, lifting, chess, traveling, and any other physical activity I can get out to do with friends. 
 
