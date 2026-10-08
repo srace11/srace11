@@ -6,9 +6,8 @@ I studied Operations Research at **Cornell**, where I also pole vaulted, and I c
 
 ### What I'm building
 
-- **[Way Speed](https://wayspeed.net)**: one LiDAR sensor beside the track records a full sprint velocity curve and automatic splits after every rep. Working with some Cornell friends to get this startup going. 
-- **[Photo Painter](https://github.com/srace11/ESP32-S3-PhotoPainter)** *(coming soon)*: custom firmware for an ESP32-S3 e-paper frame, plus a mobile app that sends your photos to the e-ink frame. 
-- **Volleyball Jump Mechanics** *(coming soon)*: analyzes your approach and jump so you can add height at the net.
+- **[Way Speed](https://wayspeed.net)**: one LiDAR sensor beside the track records a full sprint velocity curve and automatic splits after every rep. Working with some Cornell friends to get this startup going.  
+- **[Volleyball Jump Mechanics](https://statjump.shaneracey.com/)**: analyzes your approach and jump so you can add height at the net.
 
 More at **[shaneracey.com](https://shaneracey.com)**.
 
